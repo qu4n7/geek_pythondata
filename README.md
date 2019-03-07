@@ -1,3 +1,3 @@
 # geekbrains_pythondata
-_4 : numpym pandas \n \\
-_5 : task on pandas
+#_4 : numpy + pandas
+#_5 : task on pandas
